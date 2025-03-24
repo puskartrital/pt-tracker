@@ -1,6 +1,5 @@
 # PT Tracker
 
-A task tracker application with voice assistant capabilities in Nepali language.
 
 ## Features
 
@@ -32,7 +31,4 @@ Make sure you have Flutter installed on your machine. For help getting started w
 3. Run `flutter pub run build_runner build` to generate Hive adapters
 4. Run `flutter run` to start the app
 
-## APIs
 
-The app connects to a home API to fetch logo and welcome message:
-- Home API: https://cms.puskartrital.com/api/home
